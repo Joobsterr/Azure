@@ -1,0 +1,12 @@
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\bin\Release\netcoreapp2.1\MVCWebDemo.Core.deps.json
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\bin\Release\netcoreapp2.1\MVCWebDemo.Core.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\bin\Release\netcoreapp2.1\MVCWebDemo.Core.pdb
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\bin\Release\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\bin\Release\netcoreapp2.1\System.Data.SqlClient.xml
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\obj\Release\netcoreapp2.1\MVCWebDemo.Core.csprojAssemblyReference.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\obj\Release\netcoreapp2.1\MVCWebDemo.Core.csproj.CoreCompileInputs.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\obj\Release\netcoreapp2.1\MVCWebDemo.Core.AssemblyInfoInputs.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\obj\Release\netcoreapp2.1\MVCWebDemo.Core.AssemblyInfo.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\obj\Release\netcoreapp2.1\MVCWebDemo.Core.csproj.CopyComplete
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\obj\Release\netcoreapp2.1\MVCWebDemo.Core.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\obj\Release\netcoreapp2.1\MVCWebDemo.Core.pdb

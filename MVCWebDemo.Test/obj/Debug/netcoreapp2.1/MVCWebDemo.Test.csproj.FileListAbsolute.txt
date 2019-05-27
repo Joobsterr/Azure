@@ -1,0 +1,46 @@
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Views.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Views.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Test.deps.json
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Test.runtimeconfig.json
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Test.runtimeconfig.dev.json
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Test.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Test.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\obj\Debug\netcoreapp2.1\MVCWebDemo.Test.csprojAssemblyReference.cache
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\obj\Debug\netcoreapp2.1\MVCWebDemo.Test.csproj.CoreCompileInputs.cache
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\obj\Debug\netcoreapp2.1\MVCWebDemo.Test.AssemblyInfoInputs.cache
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\obj\Debug\netcoreapp2.1\MVCWebDemo.Test.AssemblyInfo.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\obj\Debug\netcoreapp2.1\MVCWebDemo.Test.csproj.CopyComplete
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\obj\Debug\netcoreapp2.1\MVCWebDemo.Test.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.Test\obj\Debug\netcoreapp2.1\MVCWebDemo.Test.pdb
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Views.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Views.pdb
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Test.deps.json
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Test.runtimeconfig.json
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Test.runtimeconfig.dev.json
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Test.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Test.pdb
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.pdb
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\MVCWebDemo.pdb
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\obj\Debug\netcoreapp2.1\MVCWebDemo.Test.csprojAssemblyReference.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\obj\Debug\netcoreapp2.1\MVCWebDemo.Test.csproj.CoreCompileInputs.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\obj\Debug\netcoreapp2.1\MVCWebDemo.Test.AssemblyInfoInputs.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\obj\Debug\netcoreapp2.1\MVCWebDemo.Test.AssemblyInfo.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\obj\Debug\netcoreapp2.1\MVCWebDemo.Test.csproj.CopyComplete
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\obj\Debug\netcoreapp2.1\MVCWebDemo.Test.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.Test\obj\Debug\netcoreapp2.1\MVCWebDemo.Test.pdb

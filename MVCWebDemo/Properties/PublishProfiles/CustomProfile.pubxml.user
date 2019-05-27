@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://venus.fhict.nl/domains/i408687core.venus.fhict.nl</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>04/05/2019 10:20:00</publishTime>
+    </File>
+    <File Include="BouncyCastle.Crypto.dll">
+      <publishTime>04/10/2018 13:45:44</publishTime>
+    </File>
+    <File Include="dotnet-aspnet-codegenerator-design.dll">
+      <publishTime>06/07/2018 00:27:02</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.CSharp.Workspaces.dll">
+      <publishTime>05/08/2019 10:02:33</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.Workspaces.dll">
+      <publishTime>05/08/2019 10:02:34</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll">
+      <publishTime>06/07/2018 00:27:00</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Core.dll">
+      <publishTime>06/07/2018 00:26:58</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.dll">
+      <publishTime>06/07/2018 00:26:54</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll">
+      <publishTime>06/07/2018 00:26:56</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll">
+      <publishTime>06/07/2018 00:27:02</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll">
+      <publishTime>06/07/2018 00:27:02</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll">
+      <publishTime>06/07/2018 00:26:58</publishTime>
+    </File>
+    <File Include="MimeKit.dll">
+      <publishTime>04/13/2019 12:48:16</publishTime>
+    </File>
+    <File Include="MVCWebDemo.Core.dll">
+      <publishTime>05/20/2019 11:39:41</publishTime>
+    </File>
+    <File Include="MVCWebDemo.Core.pdb">
+      <publishTime>05/20/2019 11:39:41</publishTime>
+    </File>
+    <File Include="MVCWebDemo.deps.json">
+      <publishTime>05/20/2019 12:37:46</publishTime>
+    </File>
+    <File Include="MVCWebDemo.dll">
+      <publishTime>05/20/2019 12:36:54</publishTime>
+    </File>
+    <File Include="MVCWebDemo.pdb">
+      <publishTime>05/20/2019 12:36:54</publishTime>
+    </File>
+    <File Include="MVCWebDemo.runtimeconfig.json">
+      <publishTime>05/20/2019 12:37:46</publishTime>
+    </File>
+    <File Include="MVCWebDemo.Views.dll">
+      <publishTime>05/20/2019 12:36:55</publishTime>
+    </File>
+    <File Include="MVCWebDemo.Views.pdb">
+      <publishTime>05/20/2019 12:36:55</publishTime>
+    </File>
+    <File Include="NuGet.Frameworks.dll">
+      <publishTime>05/08/2019 10:02:31</publishTime>
+    </File>
+    <File Include="System.Composition.AttributedModel.dll">
+      <publishTime>05/08/2019 10:02:33</publishTime>
+    </File>
+    <File Include="System.Composition.Convention.dll">
+      <publishTime>05/08/2019 10:02:33</publishTime>
+    </File>
+    <File Include="System.Composition.Hosting.dll">
+      <publishTime>05/08/2019 10:02:33</publishTime>
+    </File>
+    <File Include="System.Composition.Runtime.dll">
+      <publishTime>05/08/2019 10:02:33</publishTime>
+    </File>
+    <File Include="System.Composition.TypedParts.dll">
+      <publishTime>05/08/2019 10:02:33</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>05/20/2019 12:37:46</publishTime>
+    </File>
+    <File Include="wwwroot/assets/bootstrap/css/bootstrap.min.css">
+      <publishTime>02/15/2019 20:28:22</publishTime>
+    </File>
+    <File Include="wwwroot/assets/bootstrap/js/bootstrap.min.js">
+      <publishTime>02/15/2019 09:19:11</publishTime>
+    </File>
+    <File Include="wwwroot/assets/css/user.css">
+      <publishTime>03/09/2019 18:32:27</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/font-awesome.min.css">
+      <publishTime>02/15/2019 09:19:11</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/fontawesome-webfont.eot">
+      <publishTime>02/15/2019 09:19:11</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/fontawesome-webfont.svg">
+      <publishTime>02/15/2019 09:19:11</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/fontawesome-webfont.ttf">
+      <publishTime>02/15/2019 09:19:11</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/fontawesome-webfont.woff">
+      <publishTime>02/15/2019 09:19:11</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/fontawesome-webfont.woff2">
+      <publishTime>02/15/2019 09:19:11</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/FontAwesome.otf">
+      <publishTime>02/15/2019 09:19:11</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/A.jpg">
+      <publishTime>02/15/2019 09:19:10</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/iphone.svg">
+      <publishTime>02/15/2019 09:19:10</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/screen-content-iphone-6.jpg">
+      <publishTime>02/15/2019 09:19:10</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/UQ8ZK3.jpg">
+      <publishTime>02/15/2019 09:19:10</publishTime>
+    </File>
+    <File Include="wwwroot/assets/js/jquery.min.js">
+      <publishTime>02/15/2019 09:19:11</publishTime>
+    </File>
+    <File Include="wwwroot/Build/Mapje.data.unityweb">
+      <publishTime>05/14/2019 15:44:46</publishTime>
+    </File>
+    <File Include="wwwroot/Build/Mapje.json">
+      <publishTime>05/14/2019 15:43:54</publishTime>
+    </File>
+    <File Include="wwwroot/Build/Mapje.wasm.code.unityweb">
+      <publishTime>05/14/2019 15:44:50</publishTime>
+    </File>
+    <File Include="wwwroot/Build/Mapje.wasm.framework.unityweb">
+      <publishTime>05/14/2019 15:44:50</publishTime>
+    </File>
+    <File Include="wwwroot/Build/UnityLoader.js">
+      <publishTime>05/14/2019 23:13:36</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>04/10/2019 16:34:45</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.min.css">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>03/09/2019 18:52:52</publishTime>
+    </File>
+    <File Include="wwwroot/images/banner1.svg">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/images/banner2.svg">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/images/banner3.svg">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/images/download.png">
+      <publishTime>04/09/2019 12:56:07</publishTime>
+    </File>
+    <File Include="wwwroot/images/giflogo.gif">
+      <publishTime>03/09/2019 19:17:31</publishTime>
+    </File>
+    <File Include="wwwroot/images/oie_trans.gif">
+      <publishTime>03/09/2019 19:01:36</publishTime>
+    </File>
+    <File Include="wwwroot/images/settingsGIF.gif">
+      <publishTime>02/15/2019 11:27:26</publishTime>
+    </File>
+    <File Include="wwwroot/images/StartSplash.png">
+      <publishTime>12/14/2018 02:24:27</publishTime>
+    </File>
+    <File Include="wwwroot/images/StartSplash.png.meta">
+      <publishTime>12/14/2018 02:24:28</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.js">
+      <publishTime>05/14/2019 09:24:43</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.min.js">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/js/Theme.js">
+      <publishTime>04/10/2019 16:28:45</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/.bower.json">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+      <publishTime>04/10/2019 16:33:36</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css.map">
+      <publishTime>04/10/2019 16:33:35</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">
+      <publishTime>04/10/2019 16:33:31</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/npm.js">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/LICENSE">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/.bower.json">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/.bower.json">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.js">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.min.js">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.js">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.min.js">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/LICENSE.md">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/.bower.json">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.js">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.js">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.map">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/LICENSE.txt">
+      <publishTime>04/02/2019 18:38:09</publishTime>
+    </File>
+    <File Include="wwwroot/music/jungle.mp3">
+      <publishTime>04/09/2019 18:10:28</publishTime>
+    </File>
+    <File Include="wwwroot/TemplateData/favicon.ico">
+      <publishTime>02/27/2019 02:07:34</publishTime>
+    </File>
+    <File Include="wwwroot/TemplateData/fullscreen.png">
+      <publishTime>02/27/2019 02:07:34</publishTime>
+    </File>
+    <File Include="wwwroot/TemplateData/progressEmpty.Dark.png">
+      <publishTime>02/27/2019 02:07:34</publishTime>
+    </File>
+    <File Include="wwwroot/TemplateData/progressEmpty.Light.png">
+      <publishTime>02/27/2019 02:07:34</publishTime>
+    </File>
+    <File Include="wwwroot/TemplateData/progressFull.Dark.png">
+      <publishTime>02/27/2019 02:07:34</publishTime>
+    </File>
+    <File Include="wwwroot/TemplateData/progressFull.Light.png">
+      <publishTime>02/27/2019 02:07:34</publishTime>
+    </File>
+    <File Include="wwwroot/TemplateData/progressLogo.Dark.png">
+      <publishTime>02/27/2019 02:07:34</publishTime>
+    </File>
+    <File Include="wwwroot/TemplateData/progressLogo.Light.png">
+      <publishTime>02/27/2019 02:07:34</publishTime>
+    </File>
+    <File Include="wwwroot/TemplateData/style.css">
+      <publishTime>02/27/2019 02:07:34</publishTime>
+    </File>
+    <File Include="wwwroot/TemplateData/UnityProgress.js">
+      <publishTime>02/27/2019 19:46:14</publishTime>
+    </File>
+    <File Include="wwwroot/TemplateData/webgl-logo.png">
+      <publishTime>02/27/2019 02:07:34</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,24 @@
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.CustomLib\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.deps.json
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.CustomLib\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.CustomLib\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.CustomLib\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.CustomLib\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.CustomLib\obj\Debug\netcoreapp2.1\MVCWebDemo.Core.csprojAssemblyReference.cache
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.CustomLib\obj\Debug\netcoreapp2.1\MVCWebDemo.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.CustomLib\obj\Debug\netcoreapp2.1\MVCWebDemo.Core.AssemblyInfoInputs.cache
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.CustomLib\obj\Debug\netcoreapp2.1\MVCWebDemo.Core.AssemblyInfo.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.CustomLib\obj\Debug\netcoreapp2.1\MVCWebDemo.Core.csproj.CopyComplete
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.CustomLib\obj\Debug\netcoreapp2.1\MVCWebDemo.Core.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo.CustomLib\obj\Debug\netcoreapp2.1\MVCWebDemo.Core.pdb
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.deps.json
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.pdb
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\obj\Debug\netcoreapp2.1\MVCWebDemo.Core.csprojAssemblyReference.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\obj\Debug\netcoreapp2.1\MVCWebDemo.Core.csproj.CoreCompileInputs.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\obj\Debug\netcoreapp2.1\MVCWebDemo.Core.AssemblyInfoInputs.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\obj\Debug\netcoreapp2.1\MVCWebDemo.Core.AssemblyInfo.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\obj\Debug\netcoreapp2.1\MVCWebDemo.Core.csproj.CopyComplete
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\obj\Debug\netcoreapp2.1\MVCWebDemo.Core.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo.CustomLib\obj\Debug\netcoreapp2.1\MVCWebDemo.Core.pdb

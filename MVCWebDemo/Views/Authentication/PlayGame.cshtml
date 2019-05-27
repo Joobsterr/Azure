@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "PlayGame";
+}
+@model MVCWebDemo.Core.DAL.Model.HighScore
+@{int x = 1;
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Unity WebGL Player | The Explorer</title>
+        <link rel="shortcut icon" href="~/TemplateData/favicon.ico">
+        <link rel="stylesheet" href="~/TemplateData/style.css">
+        <script src="~/TemplateData/UnityProgress.js"></script>
+        <script src="~/Build/UnityLoader.js"></script>
+        <script src="~/js/site.js"></script>
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Ranking</th>
+                        <th>User</th>
+                        <th>Time</th>
+                </thead>
+                <tbody>
+                    @foreach (var HighScore in Model.Scores)
+                    {
+                        <tr>
+                            <td id="ranking">@(x++)</td>
+                            <td id="username">@HighScore.UserName</td>  @*In here the high scores are being requested and the ranking is being made with mathematical calculations*@
+                            <td id="time">@HighScore.Score</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <script>
+            var gameInstance = UnityLoader.instantiate("gameContainer", "../Build/Mapje.json", { onProgress: UnityProgress });
+        </script>
+    </head>
+    <body>
+        <div class="webgl-content">
+            <div id="gameContainer" style="width: 1600px; height: 900px;"></div>
+            <div class="footer">
+                <div class="webgl-logo"></div>
+                <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
+                <div class="title">The Explorer</div>
+            </div>
+        </div>
+    </body>
+}
+

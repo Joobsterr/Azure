@@ -1,0 +1,156 @@
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.deps.json
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.runtimeconfig.json
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.runtimeconfig.dev.json
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Views.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Views.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.csprojAssemblyReference.cache
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorAssemblyInfo.cache
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorAssemblyInfo.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.AssemblyInfoInputs.cache
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.AssemblyInfo.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.TagHelpers.input.cache
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.TagHelpers.output.cache
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorCoreGenerate.cache
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\AuthDemo\AdminOnly.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\AuthDemo\AuthenticatedOnly.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\AuthDemo\MemberOnly.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.Views.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.csproj.CopyComplete
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.dll
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\AuthDemo\PlayGame.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\coremvcapp-master\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.deps.json
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.runtimeconfig.json
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.runtimeconfig.dev.json
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.dll
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Views.dll
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Views.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.dll
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.csprojAssemblyReference.cache
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorAssemblyInfo.cache
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorAssemblyInfo.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.AssemblyInfoInputs.cache
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.AssemblyInfo.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.TagHelpers.input.cache
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.TagHelpers.output.cache
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorCoreGenerate.cache
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.Views.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.csproj.CopyComplete
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.dll
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.pdb
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Authentication\AdminOnly.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Authentication\AuthenticatedOnly.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Authentication\MemberOnly.g.cshtml.cs
+C:\Users\Jobva\OneDrive\Bureaublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Authentication\PlayGame.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.deps.json
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.runtimeconfig.json
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.runtimeconfig.dev.json
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.dll
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.pdb
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Views.dll
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Views.pdb
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.dll
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.pdb
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.csprojAssemblyReference.cache
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.csproj.CoreCompileInputs.cache
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorAssemblyInfo.cache
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorAssemblyInfo.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.AssemblyInfoInputs.cache
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.AssemblyInfo.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.TagHelpers.input.cache
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.TagHelpers.output.cache
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorCoreGenerate.cache
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Authentication\AdminOnly.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Authentication\AuthenticatedOnly.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Authentication\MemberOnly.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Authentication\PlayGame.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorTargetAssemblyInfo.cache
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorTargetAssemblyInfo.cs
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.Views.pdb
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.csproj.CopyComplete
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.dll
+D:\GitKut\Bureabublad\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.pdb
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.deps.json
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.runtimeconfig.json
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.runtimeconfig.dev.json
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.pdb
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Views.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Views.pdb
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\bin\Debug\netcoreapp2.1\MVCWebDemo.Core.pdb
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.csprojAssemblyReference.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.csproj.CoreCompileInputs.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorAssemblyInfo.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorAssemblyInfo.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.AssemblyInfoInputs.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.AssemblyInfo.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.TagHelpers.input.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.TagHelpers.output.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorCoreGenerate.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Authentication\AdminOnly.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Authentication\AuthenticatedOnly.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Authentication\MemberOnly.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Authentication\PlayGame.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorTargetAssemblyInfo.cache
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.RazorTargetAssemblyInfo.cs
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.Views.pdb
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.csproj.CopyComplete
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.dll
+D:\GitKut\The-Explorer\The Explorer\MVCWebDemo\obj\Debug\netcoreapp2.1\MVCWebDemo.pdb

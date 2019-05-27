@@ -1,0 +1,1 @@
+INSERT INTO [User](username, email, password, CreationDate) VALUES ('Jobvanr@gmail.com','Jobvanr@gmail.com','Kroket02', GETDATE());

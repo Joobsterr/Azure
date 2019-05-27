@@ -1,0 +1,1 @@
+SonarScanner.MSBuild.exe begin /k:"Joobsterr_TheExplorer" /d:sonar.organization="joobsterr-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="3527eb4b6b39800ef13d6b770062a8461fc0feac"

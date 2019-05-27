@@ -1,0 +1,36 @@
+USE [MvcWebDemo]
+GO
+
+/****** Object: Table [dbo].[Customer] Script Date: 19/03/2019 11:39:14 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Customer] (
+    [Id]   INT            IDENTITY (1, 1) NOT NULL,
+    [Name] NVARCHAR (MAX) NULL
+);
+
+
+
+
+USE [MvcWebDemo]
+GO
+
+/****** Object: Table [dbo].[Order] Script Date: 19/03/2019 11:39:31 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Order] (
+    [Id]          INT             IDENTITY (1, 1) NOT NULL,
+    [CustomerId]  INT             NOT NULL,
+    [TotalPrice]  DECIMAL (18, 2) NOT NULL,
+    [Description] NVARCHAR (MAX)  NOT NULL
+);
+
+

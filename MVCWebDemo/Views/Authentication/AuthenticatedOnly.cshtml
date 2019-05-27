@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Member Page";
+}
+@model IEnumerable<MVCWebDemo.Core.DAL.Model.User>
+
+<body>
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Username</th>
+                    <th id="username">@User.Identity.Name</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Is Authenticated</td>
+                    <td id="authenticated">@User.Identity.IsAuthenticated</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <form asp-action="Logout" asp-controller="Account" method="get">
+        <p class="login button">
+            <input type="submit" value="Log out" asp-action="Logout" />
+        </p>
+        <div class="btn-toolbar">
+            <div class="btn-group" role="group"></div>
+            <div class="btn-group" role="group"></div>
+        </div>
+    </form>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+</body>
